@@ -20,3 +20,4 @@
 18-letteronly |script replace all characters A and c from input to Z and e respectively.
 18-letteronly |script remove all c and C from input
 21-reverse |script reverses input
+22-users_and_homes |script displays all users and their home directories, sorted by users.
