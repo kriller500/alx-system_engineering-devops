@@ -6,3 +6,4 @@
 5-firstlines |Displays first 10 etc/passwd
 6-third_line |Displays third line of iacta
 7-file |Displays
+8-cwd_state |script that writes into the file ls_cwd_content the result of the command ls -la
