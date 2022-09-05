@@ -15,3 +15,4 @@
 14-find_that_word |script that displays lines containing pattern root from /etc/passwd
 15-countthatword |script that counts lines containing pattern bin from /etc/passwd
 16-whatsnext |script displaying lines containing pattern root and 3 lines after from /etc/passwd
+17-hidethisword |script displaying lines not containing pattern bin from /etc/passwd
