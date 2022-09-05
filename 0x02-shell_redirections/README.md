@@ -17,3 +17,4 @@
 16-whatsnext |script displaying lines containing pattern root and 3 lines after from /etc/passwd
 17-hidethisword |script displaying lines not containing pattern bin from /etc/passwd
 18-letteronly |script displaying lines beginning with a letter from /etc/ssh/sshd_config
+18-letteronly |script replace all characters A and c from input to Z and e respectively.
