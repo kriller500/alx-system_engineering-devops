@@ -4,3 +4,4 @@
 3-twofiles |Displays contents of etc/passwd and etc/hosts
 4-lastlines |Displays last 10 etc/passwd
 5-firstlines |Displays first 10 etc/passwd
+6-third_line |Displays third line of iacta
