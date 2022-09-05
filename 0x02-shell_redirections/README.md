@@ -12,3 +12,4 @@
 11-directories |script that counts the number of directories and sub-directories in the current directory.
 12-newest_files |script prints ten newest files in the current directory.
 13-unique |script  script that takes a list of words as input and prints only words that appear exactly once.
+14-find_that_word |script that displays lines containing pattern root from /etc/passwd
