@@ -4,3 +4,4 @@ Directory search priority
 File number count
 show environment variables
 list local variables envionment and functions
+create new local variable
