@@ -13,3 +13,4 @@ convert binary to decimal
 print combinations excluding oo
 print douvle decimals to NUM
 prints hexadecimal to DECIMAL
+encode and decode rot13
