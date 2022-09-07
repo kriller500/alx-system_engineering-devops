@@ -8,3 +8,4 @@ create new local variable
 create new global variable
 add 128 to variable
 print power over divide
+print breath power love
