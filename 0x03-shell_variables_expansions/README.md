@@ -10,3 +10,4 @@ add 128 to variable
 print power over divide
 print breath power love
 convert binary to decimal
+print combinations excluding oo
