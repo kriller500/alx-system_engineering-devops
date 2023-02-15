@@ -14,3 +14,5 @@ print combinations excluding oo
 print douvle decimals to NUM
 prints hexadecimal to DECIMAL
 encode and decode rot13
+Thank you alx for the opportunity 
+
